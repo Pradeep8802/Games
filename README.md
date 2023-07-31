@@ -1,6 +1,6 @@
 # Games
 
-**This repository contains mini JS games done as personel Projects**
+**This repository contains mini JS games done as personel Projects**\
 *Some of the games are not done completely*
 
 **Game 1**
